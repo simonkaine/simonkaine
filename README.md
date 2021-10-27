@@ -12,7 +12,7 @@
 
 ### Find me elsewhere! :earth_americas:
 
-![LinkedIn]({https://www.linkedin.com/in/simonbishopkaine/})
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40simonbkaine)](https://twitter.com/simonbkaine)
 
