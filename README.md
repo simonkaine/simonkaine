@@ -8,6 +8,7 @@
  :alien: &nbsp; Pronouns: (he/him/his)<br />
  ⚡ &nbsp; Fun fact: <br />
  :floppy_disk: &nbsp; Tech Skills: <br />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:check:
  
 
 
