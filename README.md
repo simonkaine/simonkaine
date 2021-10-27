@@ -13,6 +13,6 @@
 ### Find me elsewhere! :earth_americas:
 
 [![LinkedIn URL](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonbishopkaine/)
-[![Twitter URL](https://img.shields.io/badge/<simonbkaine>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/simonbkaine)
+[![Twitter URL](https://img.shields.io/badge/simonbkaine-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/simonbkaine)
 
 https://simonkaine.com/
