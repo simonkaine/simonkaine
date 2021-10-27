@@ -1,11 +1,9 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Simon Kaine!
 
 
- 🌱  &nbsp;Forever life student + Full Stack Web Development..<br />
+ 🌱 &nbsp;Forever life student + Full Stack Web Development..<br />
  :mag: &nbsp; Strong focus on the future of Accessibilty!<br />
- 🤔 &nbsp; UI/UX, CSS/LESS design oriented <br />
- 💬 &nbsp; Ask me about ...<br />
- 📫 &nbsp; How to reach me: ...<br />
+ :bulb: &nbsp; UI/UX, CSS/LESS design oriented <br />
  😄 &nbsp; Pronouns: (he/him/his)<br />
  ⚡ &nbsp; Fun fact: ...
 
