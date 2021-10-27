@@ -2,7 +2,7 @@
 
 
  🌱 Forever life student + Full Stack Web Development..
- �:mag: Strong focus on the future of Accessibilty!
+ :mag: Strong focus on the future of Accessibilty!
  🤔 UI/UX, CSS/LESS design oriented 
  💬 Ask me about ...
  📫 How to reach me: ...
