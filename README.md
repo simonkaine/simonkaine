@@ -1,11 +1,11 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello world, I'm [Simon Kaine](https://simonkaine.com)! 
 
 
- 🌱 &nbsp; Forever life student, always craving new knowledge<br />
+ 🌱 &nbsp; Forever life student, forever craving new knowledge<br />
  :computer: &nbsp; Full-Stack Web Developer<br />
  :mag: &nbsp; Strong focus on the future of Accessibilty!<br />
  :bulb: &nbsp; UI/UX, CSS/LESS design oriented <br />
- 😄 &nbsp; Pronouns: (he/him/his)<br />
+ :trollface: &nbsp; Pronouns: (he/him/his)<br />
  ⚡ &nbsp; Fun fact: ...
 
 
