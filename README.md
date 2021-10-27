@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello world, I'm [Simon Kaine](https://simonkaine.com)! 
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello world, I'm [Simon Kaine](https://simonkaine.com)! 
 
 
  🌱 &nbsp; Forever life student, forever craving new knowledge<br />
@@ -17,8 +17,8 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## Find me elsewhere! :earth_americas:
+<br>
+### Find me elsewhere! :earth_americas:
 
 [![LinkedIn URL](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonbishopkaine/)
 [![Twitter URL](https://img.shields.io/badge/simonbkaine-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/simonbkaine)
