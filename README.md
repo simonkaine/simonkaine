@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello world, I'm [Simon Kaine](https://simonkaine.com)! 
 
 
- 🌱 &nbsp;Forever life student<br />
+ 🌱 &nbsp; Forever life student, always craving new knowledge<br />
  :computer: &nbsp; Full-Stack Web Developer
  :mag: &nbsp; Strong focus on the future of Accessibilty!<br />
  :bulb: &nbsp; UI/UX, CSS/LESS design oriented <br />
