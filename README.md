@@ -5,7 +5,7 @@
  :computer: &nbsp; Full-Stack Web Developer<br />
  :mag: &nbsp; Strong focus on the future of Accessibilty!<br />
  :bulb: &nbsp; UI/UX, CSS/LESS design oriented <br />
- :trollface: &nbsp; Pronouns: (he/him/his)<br />
+ :alien: &nbsp; Pronouns: (he/him/his)<br />
  ⚡ &nbsp; Fun fact: 
  :floppy_disk: &nbsp; Tech Skills: 
 
