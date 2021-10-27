@@ -6,8 +6,9 @@
  :mag: &nbsp; Strong focus on the future of Accessibilty!<br />
  :bulb: &nbsp; UI/UX, CSS/LESS design oriented <br />
  :alien: &nbsp; Pronouns: (he/him/his)<br />
- ⚡ &nbsp; Fun fact: 
- :floppy_disk: &nbsp; Tech Skills: 
+ ⚡ &nbsp; Fun fact: <br />
+ :floppy_disk: &nbsp; Tech Skills: <br />
+ 
 
 
 ### Find me elsewhere! :earth_americas:
