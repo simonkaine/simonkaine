@@ -2,7 +2,7 @@
 
 
  🌱 &nbsp; Forever life student, always craving new knowledge<br />
- :computer: &nbsp; Full-Stack Web Developer
+ :computer: &nbsp; Full-Stack Web Developer<br />
  :mag: &nbsp; Strong focus on the future of Accessibilty!<br />
  :bulb: &nbsp; UI/UX, CSS/LESS design oriented <br />
  😄 &nbsp; Pronouns: (he/him/his)<br />
