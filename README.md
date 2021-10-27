@@ -1,13 +1,13 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Simon Kaine!
 
 
- 🌱  Forever life student + Full Stack Web Development..<br />
- :mag:  Strong focus on the future of Accessibilty!<br />
- 🤔  UI/UX, CSS/LESS design oriented <br />
- 💬  Ask me about ...<br />
- 📫  How to reach me: ...<br />
- 😄  Pronouns: (he/him/his)<br />
- ⚡  Fun fact: ...
+ 🌱  &nbsp;Forever life student + Full Stack Web Development..<br />
+ :mag: &nbsp; Strong focus on the future of Accessibilty!<br />
+ 🤔 &nbsp; UI/UX, CSS/LESS design oriented <br />
+ 💬 &nbsp; Ask me about ...<br />
+ 📫 &nbsp; How to reach me: ...<br />
+ 😄 &nbsp; Pronouns: (he/him/his)<br />
+ ⚡ &nbsp; Fun fact: ...
 
 
 ### Find me elsewhere! :earth_americas:
