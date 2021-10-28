@@ -6,7 +6,6 @@
  :mag: &nbsp; Strong focus on the future of Accessibilty!<br />
  :bulb: &nbsp; UI/UX, CSS/LESS design oriented <br />
  :alien: &nbsp; Pronouns: (he/him/his)<br />
- ⚡ &nbsp; Fun fact: I once had a foot tall mohawk & play many instruments :metal: <br />
  :floppy_disk: &nbsp; Tech Skills: <br />
  <br />
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
