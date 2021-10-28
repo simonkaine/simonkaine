@@ -3,7 +3,7 @@
 
  🌱 &nbsp; Forever life student, forever craving new knowledge<br />
  :computer: &nbsp; Full-Stack Web Developer<br />
- :mag: &nbsp; Strong focus on the future of Accessibilty!<br />
+ :mag: &nbsp; Strong focus on the future of accessibilty!<br />
  :bulb: &nbsp; UI/UX, CSS/LESS design oriented <br />
  :alien: &nbsp; Pronouns: (he/him/his)<br />
  :floppy_disk: &nbsp; Tech Skills: <br />
