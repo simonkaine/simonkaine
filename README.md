@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello world, I'm [Simon Kaine](https://simonkaine.com)! 
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello world, my name is [Simon Kaine](https://simonkaine.com)! 
 
 
  🌱 &nbsp; Forever life student, forever craving new knowledge<br />
