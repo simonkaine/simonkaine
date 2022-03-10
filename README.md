@@ -24,4 +24,3 @@
 [![Twitter URL](https://img.shields.io/badge/simonbkaine-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/simonbkaine)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonkaine@gmail.com)
 
-https://simonkaine.com/
